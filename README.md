@@ -1,4 +1,4 @@
-<p align="center"/>🪐 Hello World, i'm Jonas! </p>
+<h1 align="center"/>🪐 Hello World, i'm Jonas! </h1>
 
 <p align="center"/>Computer Science undergraduate</p>
 
