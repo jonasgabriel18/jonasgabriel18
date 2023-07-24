@@ -1,6 +1,6 @@
 # 🪐 Hello World, i'm Jonas!
 
-**`Computer Science`**
+<p align="center"/>**`Computer Science`**</p>
 
 # About me
 
