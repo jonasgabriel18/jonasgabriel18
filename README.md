@@ -2,11 +2,11 @@
 
 **`Computer Science`**
 
-#About me ⭐
+# About me ⭐
 
 Hey! I'm Jonas, a Computer Science undergraduate in Universidade Federal da Paraíba (UFPB). I'm 21 years old and my passion about technology began as a child, when my dad bought my first Playstation 2. Since then, i became immersed in the internet and videogames, so, in 2016, i've decided to take a game development course and that's when i fell in love with programming. I'm also a big astronomy and physics enthusiast 😄.
 
-#Experiences
+# Experiences
 
 - Member of [ARIA](https://aria.ci.ufpb.br/en/sobre/) (Artificial Intelligence Applications Laboratory).
 
