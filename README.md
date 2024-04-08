@@ -35,7 +35,7 @@ Hey! I'm Jonas, a Computer Science undergraduate in Universidade Federal da Para
 
 ### 📊 Stats
 
-![Jonas Araujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasgabriel18&show_icons=true&theme=gruvbox)
+![Jonas Araujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasgabriel18&show_icons=true&theme=radical)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
